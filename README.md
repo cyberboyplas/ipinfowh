@@ -1,7 +1,8 @@
 # WhIPINFO
 Script para ver la ip tuya y la de otro con mucha informacion
 
-# Probado en Temux / Kali Linux
+# Probado en
+Termux y Kali Linux
 
 # Como instalar
 pkg update
