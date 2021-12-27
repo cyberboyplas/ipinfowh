@@ -26,3 +26,5 @@ Termux y Kali Linux
 
 
 [![Virtual-Box-VM-y-EGHBQ8-HOx.png](https://i.postimg.cc/ZRb8PQMm/Virtual-Box-VM-y-EGHBQ8-HOx.png)](https://postimg.cc/DWN4nxhp)
+
+[![Virtual-Box-VM-v-RXd66qb-R5.png](https://i.postimg.cc/L6LzbHsb/Virtual-Box-VM-v-RXd66qb-R5.png)](https://postimg.cc/kBM6VPKQ)
