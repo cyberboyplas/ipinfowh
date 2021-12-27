@@ -23,4 +23,6 @@ bash ipinfowh.sh
 # Probado en
 Termux y Kali Linux
 
+
+
 https://i.imgur.com/QfDya8R.png
