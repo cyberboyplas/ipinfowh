@@ -25,4 +25,4 @@ Termux y Kali Linux
 
 
 
-https://i.imgur.com/QfDya8R.png
+[![Virtual-Box-VM-y-EGHBQ8-HOx.png](https://i.postimg.cc/ZRb8PQMm/Virtual-Box-VM-y-EGHBQ8-HOx.png)](https://postimg.cc/DWN4nxhp)
