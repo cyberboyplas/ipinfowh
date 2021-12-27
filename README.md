@@ -12,7 +12,7 @@ git clone https://github.com/WhBeatZ/IPinfoWh
 
 ls
 
-cd IPinfoWh
+cd ipinfowh
 
 ls
 
