@@ -1,5 +1,5 @@
-ç#!/bin/bash
-# proyecto OVNI de monkey-hk4
+#!/bin/bash
+# ipinfo WhBeatZ
 
 banner() {
 echo -e ""
